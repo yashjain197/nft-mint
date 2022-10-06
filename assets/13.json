@@ -1,0 +1,54 @@
+{
+  "name": "Nerdy Cat Eyes #13",
+  "symbol": "NCE",
+  "description": "Collection of cool nerdy cat eyes",
+  "seller_fee_basis_points": 1000,
+  "image": "13.png",
+  "external_url": "https://www.google.com/coolcats",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "13.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "nTHeHz1HpXfprdrbH9LG7KQDy3JNdgGXunn6sSRZGth",
+        "share": 100
+      }
+    ]
+  }
+}

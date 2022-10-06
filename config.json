@@ -1,0 +1,15 @@
+{
+    "price": 0.02,
+    "number": 25,
+    "gatekeeper": null,
+    "solTreasuryAccount": "nTHeHz1HpXfprdrbH9LG7KQDy3JNdgGXunn6sSRZGth",
+    "goLiveDate": "05 Oct 2022 00:00:00 GMT",
+    "storage": "arweave-sol",
+    "noRetainAuthority": false,
+    "noMutable": false,
+    "splTokenAccount": null,
+    "splToken": null,
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null
+}
