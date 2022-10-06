@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/56026073/194385952-0d0a5380-cd3a-454e-8d61-dc8ffbf080a9.mp4
+
 Hello, I have used the following steps in order to create NFT's, create wallet and mint them. This project contains the wallet private key as well @wallet/devnet.json which you can use to see all minted NFT's.
 
 # Create assets
@@ -23,6 +26,8 @@ OR
 
 # Setup and start minting website
 cd ./metaplex/js/packages/candy-machine-ui
+
+
 yarn install
 cp .env.example .env
 yarn start
